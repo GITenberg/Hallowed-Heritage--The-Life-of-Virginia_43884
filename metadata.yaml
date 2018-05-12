@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '42454'
     url: http://www.gutenberg.org/2009/agents/42454
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/43884#Hallowed-Heritage--The-Life-of-Virginia
 gutenberg_issued: '2013-10-04'
 gutenberg_type: Text
 identifiers:
