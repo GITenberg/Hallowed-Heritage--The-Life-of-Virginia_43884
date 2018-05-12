@@ -1,0 +1,27 @@
+_repo: Hallowed-Heritage--The-Life-of-Virginia_43884
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 43884-h/images/coverpage.jpg
+creator:
+  author:
+    agent_name: Torpey, Dorothy Margaret
+    alias: Torpey, Dorothy M.
+    birthdate: 1919
+    gutenberg_agent_id: '42454'
+    url: http://www.gutenberg.org/2009/agents/42454
+description: ''
+gutenberg_issued: '2013-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '43884'
+  lccn: '60053266'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Virginia -- Civilization'
+- !lcc 'F206'
+title: 'Hallowed Heritage: The Life of Virginia'
+url: http://www.gutenberg.org/ebooks/43884
